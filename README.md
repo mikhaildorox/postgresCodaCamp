@@ -1,2 +1,2 @@
-# postgresCodaCamp
+# postgresCodeCamp
 project on freeCodeCamp
